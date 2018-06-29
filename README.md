@@ -1,4 +1,5 @@
 # gulp.js
+Gulp.js es un **build system** que nos permitirá automatizar flujos de trabajo que manualmente pueden volverse bastante tediosos.
 
 Instalar gulp globalmente
 ```sh
